@@ -5,9 +5,15 @@ This project involves building a linear regression model to predict housing pric
 Project Overview
 The Housing Price Prediction model leverages historical data and various features such as location, size, number of bedrooms, number of bathrooms, and other relevant factors to predict the market value of a house. The model aims to provide accurate and reliable price estimates by analyzing these features.
 
-Features
-Data Preprocessing: Handling missing values, encoding categorical variables, and scaling numerical features.
-Exploratory Data Analysis (EDA): Visualizing data distributions and relationships between features and target variables.
+Features worked on:-
+Data Preprocessing: 
+ - Handling missing values
+ - Encoding categorical variables
+ - Scaling numerical features
+   
+Exploratory Data Analysis (EDA):
+ - Visualizing data distributions
+ - Relationships between features and target variables.
 
 Model Training: Linear Regression.
 
