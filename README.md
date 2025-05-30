@@ -1,4 +1,4 @@
-# Housing-price-prediction
+# Housing-price-prediction model
 
 This project involves building a linear regression model to predict housing prices based on various features. The aim is to provide an accurate estimate of house prices to assist buyers, sellers, and real estate professionals in making informed decisions.
 
